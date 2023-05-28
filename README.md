@@ -21,7 +21,7 @@
 4)Тест случаи според критериумот Every Branch
 1. Тест случај кога не е внесено ништо User (user = null, password=null, mail = null)
 2. Тест случја кога корисникот не внесува име, неговата лозинка е помала од 8 постои неговиот маил User( username = null, pass = sara mail = sara@.) and alluser = 2 (postoi mail)
-3.Тест случај кога корисникот внесува има, има лозинка поголема од 8 и без празни места, постои неговото има и не постои неговиот маил User (username = sara, pass = SARA12345 mail = sara) user =2.
+3. Тест случај кога корисникот внесува има, има лозинка поголема од 8 и без празни места, постои неговото има и не постои неговиот маил User (username = sara, pass = SARA12345 mail = sara) user =2.
 4. Тест кога бројот на претходни корисници е 0, и лозинката има празни места User ( username = teo pass=SARA 1234. mail =sara@.) alluser = 0
 5. Тест кога лозинката нема празни места, поголема е од 8 и има специјален знак User (username = sara, pass = SARA@1234 mail = sara) user =2 (poatoi toa ime I ne postoi toj mail)
 
