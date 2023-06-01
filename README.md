@@ -6,7 +6,8 @@
 
 2)Control Flow Graph
 
-![Graf](https://github.com/SaraNikolova4/SE/assets/126294104/4d056b45-9c19-4310-87d7-4c60eb3dc549)
+![Graf](https://github.com/SaraNikolova4/SI_2023_lab2_213034/assets/126294104/38e6b301-977a-4950-950a-527b6a9b5ce0)
+
 
 
 3)Цикломатска комплексност
@@ -25,8 +26,8 @@
 4. Тест кога бројот на претходни корисници е 0, и лозинката има празни места User ( username = teo pass=SARA 1234. mail =sara@.) alluser = 0
 5. Тест кога лозинката нема празни места, поголема е од 8 и има специјален знак User (username = sara, pass = SARA@1234 mail = sara) user =2 (poatoi toa ime I ne postoi toj mail)
 
-![Screenshot_1](https://github.com/SaraNikolova4/SE/assets/126294104/26901f46-f109-4bd4-95c5-693e686a57b6)
 
+![Screenshot_1](https://github.com/SaraNikolova4/SI_2023_lab2_213034/assets/126294104/308f3c45-d937-46a9-b484-0a96039ceaa6)
 
 
 5)Multiple Condition Тест случаи според критериумот Multiple Condition за условот. Постојат 4 тест случаи за овој услов.
@@ -37,4 +38,4 @@ if(user==null || user.getPassword()==null || user.getEmail()==null)
 3. Aко не е внесено име, внесена е лозинка и не е вашно дали е внесен маил - враќа True
 4. Aко не е внесено име, не е внесена лозинка, тогаш мора да се внесе маил - врќа True.
 
-![5](https://github.com/SaraNikolova4/SE/assets/126294104/d4a62e9e-b201-4d01-a834-bd6d4c130a58)
+![5](https://github.com/SaraNikolova4/SI_2023_lab2_213034/assets/126294104/245d5b18-a7e7-402d-b303-9c34b70d4981)
